@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://i.postimg.cc/7PGPTF6W/giphy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxrokysorker" alt="oxrokysorker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://i.postimg.cc/HkXV7VYn/Roky-modified.png" alt="oxrokysorker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@blazeroky" target="blank"><img src="https://img.shields.io/twitter/follow/@blazeroky?logo=twitter&style=for-the-badge" alt="@blazeroky" /></a> </p>
 
@@ -32,5 +32,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxrokysorker&show_icons=true&locale=en&layout=compact" alt="oxrokysorker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxrokysorker&" alt="oxrokysorker" /></p>
-
-
