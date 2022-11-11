@@ -1,10 +1,10 @@
 
-<img src="images/Roky-modified.png" height="200px" width="200px"/>
+
 <h1 align="center">Hi 👋, I'm Roky sorker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://i.postimg.cc/7PGPTF6W/giphy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="images/Roky-modified.png" height="200px" width="200px" alt="oxrokysorker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="images/Roky-modified.png" alt="oxrokysorker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@blazeroky" target="blank"><img src="https://img.shields.io/twitter/follow/@blazeroky?logo=twitter&style=for-the-badge" alt="@blazeroky" /></a> </p>
 
