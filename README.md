@@ -1,17 +1,15 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Roky sorker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="oxrokysorker" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://i.postimg.cc/7PGPTF6W/giphy.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxrokysorker" alt="oxrokysorker" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@blazeroky" target="blank"><img src="https://img.shields.io/twitter/follow/@blazeroky?logo=twitter&style=for-the-badge" alt="@blazeroky" /></a> </p>
 
-- 🔭 I’m currently: working on **Track back**
+- 🔭 I’m currently working on: **Track back**
 
 - 💬 Ask me about: **Web developer**
 
