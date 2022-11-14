@@ -10,10 +10,10 @@
 <p align="left"> <a href="https://twitter.com/@blazeroky" target="blank"><img src="https://img.shields.io/twitter/follow/@blazeroky?logo=twitter&style=for-the-badge" alt="@blazeroky" /></a> </p>
 
 <p>😉: I am into blockchain technology. 🤗</p>
-
-- 💬 Ask me about: **Web developer**
-
-- 📫 How to reach me: **sorkarroky6570@gmail.com**
+<p>🏠: I’m working from home 🌐</p>
+<p>🤗: Enjoy coding more than enjoy itself 😀 </p>
+<p>💬 Ask me about: **Web developer**</p>
+<p>📫 How to reach me: **sorkarroky6570@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
