@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@blazeroky" target="blank"><img src="https://img.shields.io/twitter/follow/@blazeroky?logo=twitter&style=for-the-badge" alt="@blazeroky" /></a> </p>
 
-- 🔭 I’m currently working on: **Track back**
+<p>😉: I am into blockchain technology. 🤗</p>
 
 - 💬 Ask me about: **Web developer**
 
